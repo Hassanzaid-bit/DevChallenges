@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+body{  
+    height: 1200px;
+}
+.main-content{
+    max-width: 1333px;
+    height: 695px;
+}
+
+.main-content .logo{
+    font-family: "Inconsolata";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    margin-top: 20px; 
+}
+.main-content-row{
+    position: relative;
+    top: 143px;
+}
+.scarecrow img{
+    height: 414.2492370605469px;
+    width: 539.2236938476562px;
+    border-radius: 0px;  
+}
+.side-text{
+    position: relative;
+    top: 25px;
+}
+
+.side-text.h1-container{
+    height: 190px;
+    width: 80%;
+}
+.h1-container h1{
+    font-family: Space "Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;    
+}
+
+.subtext p {
+    color: #4F4F4F;
+    text-align: justify;
+    font-family: Space "Mono";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    margin-bottom: 25px;
+}
+.side-text button{
+    width: 175px;
+    height: 50px;
+    background: #333333;
+    color: white;
+    font-family: Space "Mono";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px; 
+    letter-spacing: -0.035em;
+    margin-top: 20px;
+}
+
+footer{
+    
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-align: center;
+    
+}
