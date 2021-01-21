@@ -40,10 +40,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I had a really nice experience creating the page. It was easier than my previous projects and i took less time. It's amazing because a few months ago i was not able to position elements in the DOM. Everything was seamless thoughout the development of the page. Am really excited because i know that means am getting better. I refined my skills on CSS Positioning and used media queries. 
+Am grateful for my friend Velda Kiara for introducing me to DevChallenges, it's always a pleasure working with you Velda!:).
+Am looking forward to the next challenge. Stay tuned!
+
 
 ### Built With
 
