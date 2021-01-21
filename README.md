@@ -14,7 +14,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html">
       Solution
     </a>
     <span> | </span>
@@ -72,6 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@hassanzaid-bit](https://github.com/hassanzaid-bit)
+- Twitter [@hassan_zaid__](https://twitter.com/hassan_zaid__)
