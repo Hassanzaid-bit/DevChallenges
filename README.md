@@ -14,7 +14,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html">
+    <a href="https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html">
       Solution
     </a>
     <span> | </span>
