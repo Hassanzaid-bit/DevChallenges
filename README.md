@@ -72,6 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/hassanzaid-bit})
-- Twitter [@your-twitter](https://{twitter.com/hassan_zaid__})
+- GitHub [@hassanzaid-bit](https://{github.com/hassanzaid-bit})
+- Twitter [@hassan_zaid__](https://{twitter.com/hassan_zaid__})
