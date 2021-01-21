@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html">
+    <a href="https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html">
       Solution
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/image/page.png)
 
-<a href="https://https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html"> Click here</a> to view the page.:)
+<a href="https://hassanzaid-bit.github.io/DevChallenges/404-not-found-master/index.html"> Click here</a> to view the page.:)
 
 I had a really nice experience creating the page. It was easier than my previous projects and i took less time. It's amazing because a few months ago i was not able to position elements in the DOM. Everything was seamless thoughout the development of the page. Am really excited because i know that means am getting better. I refined my skills on CSS Positioning and used media queries. 
 Am grateful for my friend Velda Kiara for introducing me to DevChallenges, it's always a pleasure working with you Velda!:).
