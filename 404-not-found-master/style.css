@@ -2,11 +2,10 @@
     box-sizing: border-box;
 }
 body{  
-    height: 1200px;
+    height: 690px;
 }
 .main-content{
-    max-width: 1333px;
-    height: 695px;
+    height: 85%;
 }
 
 .main-content .logo{
@@ -20,7 +19,11 @@ body{
 }
 .main-content-row{
     position: relative;
-    top: 143px;
+    top: 70px;
+    height: 545px;
+}
+.scarecrow{
+    position: relative;
 }
 .scarecrow img{
     height: 414.2492370605469px;
@@ -30,11 +33,12 @@ body{
 .side-text{
     position: relative;
     top: 25px;
+    padding-left: 20px;
 }
 
 .side-text.h1-container{
     height: 190px;
-    width: 80%;
+    width: 100%;
 }
 .h1-container h1{
     font-family: Space "Mono";
@@ -68,10 +72,10 @@ body{
     line-height: 21px; 
     letter-spacing: -0.035em;
     margin-top: 20px;
+    border: none;
 }
 
 footer{
-    
     font-family: "Montserrat";
     font-size: 14px;
     font-style: normal;
@@ -80,5 +84,50 @@ footer{
     letter-spacing: 0em;
     text-align: left;
     text-align: center;
+    
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199px) {
+ .side-text{
+     left:100px;
+ }
+ .main-content-row{
+     height: 620px;
+ }
+}
+ 
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+ .scarecrow{
+     right: 93px;
+ }
+ .main-content-row{
+     height: 620px;
+ }
+}
+ 
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .scarecrow{
+        left: -16px;
+    }
+    .side-text{
+        left: -10px;
+    }
+    .main-content-row{
+        height: 1060px;
+    }
+}
+ 
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 508px) {
+    .main-content-row{
+        height: 1200px;
+    }
+}
+ 
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
     
 }
